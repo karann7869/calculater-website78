@@ -4,10 +4,10 @@
   height: 50vw;
   align-items: center;
   justify-content: center;
+  background-color: white;
 }.child{
   background-color: black;
   border-radius: 5px;
-  background-image: url();
   height: 570px;
   width: 450px;
   border-style: solid;
